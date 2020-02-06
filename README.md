@@ -7,8 +7,8 @@ Project Zip :
 All the Code Which is helpfull for you to build same app as this is present in the master branch.
 
 SPecs : 
-  Swift 4.0
-  Firebase Database
+  Swift 4.0,
+  Firebase Database,
   Storyboard
 
 Features of the App:
